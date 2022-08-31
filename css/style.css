@@ -1,0 +1,138 @@
+                                /* TAG STYLING */
+
+body{
+    background-color: #E6EFF6;
+    color: #ffffff;
+    font-family: 'Karla', sans-serif;
+    text-align: left;
+}
+
+h1{
+    padding-left: 50px;
+    padding-top: 50px;
+    color: hsl(179, 62%, 43%);
+}
+
+h2{
+    padding-left: 50%;
+    color: #ffffff;
+}
+
+h3{
+    color: hsl(0, 0%, 100%);
+    padding-left: 50px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+
+                                 /* CLASS STYLING */           
+
+.yellow-text{
+    color: hsl(71, 73%, 54%);
+}
+
+.no-pad{
+    padding-left: 0px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+
+}
+
+.pad20{
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+
+p{
+    line-height: 1.5;
+    padding-left: 50px;
+    color: #aeaeae;
+    font-weight: lighter;
+    width: 70%;
+}
+.container{
+    width: 40%;
+    margin: 200px auto;
+    border: 1px solid hsl(204, 43%, 93%);
+    border-radius: 8px 8px 8px 8px;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 12px hsl(0, 0%, 90%), -2px -2px 12px hsl(0, 0%, 90%);
+}
+
+.bottom-div{
+    display: flex;
+    width: auto;
+    border-radius: 15px;
+}
+
+.money-text{
+    display: inline-flex;
+    font-size: 22px;
+    
+}
+
+.money-text2{
+    display: inline-flex;
+    width: 40%;
+    padding-left: 10px;
+}
+.left-item{
+    background-color: hsl(179, 62%, 43%);
+    padding: 30px;
+    padding-left: 50px;
+    width: 50%;
+    border-radius: 0 0 0 8px;
+    margin: 0;
+}
+
+.right-item{
+    background-color: #7DD0CE;
+    padding: 30px;
+    width: 50%;
+    border-radius: 0 0 8px 0;
+    margin: 0;
+}
+
+.btn{
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 90%;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 38%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: #171717;
+    width: 100%;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  #white-text{
+    color: white;
+    font-weight: 100;
+  }
+  #white-text2{
+    color: white;
+    font-weight: 100;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    width: auto;
+  }
